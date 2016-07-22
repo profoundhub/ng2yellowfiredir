@@ -9,6 +9,8 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
+  'firebase' : 'vendor/firebase/lib/firebase-web.js',
+  'angularfire' : 'vendor/angularfire'
 };
 
 /** User packages configuration. */
